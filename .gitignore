@@ -1,0 +1,13 @@
+# OS Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary / Scratch logs
+*.log
+*.zip
+.tempmediaStorage/
+
+# Node modules inside assets can optionally be excluded or included.
+# PPTXGenJS is already installed, but can be reinstalled via npm install if excluded.
+# We include assets so it's plug-and-play out of the box.
