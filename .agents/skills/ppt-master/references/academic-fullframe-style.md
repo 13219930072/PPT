@@ -15,3 +15,7 @@
 3. **字号最大化原则 (Max-1 Sizing)**：文字删减保留精华，字号选至最大不溢出边界。
 4. **客观平实叙事 (Objective Narrative)**：坚决杜绝自夸浮夸词（禁止写“反超6.9倍”等），平淡陈述事实。
 5. **极简首档标题 (Minimal Section Headers)**：顶栏标题精炼至首档核心词（如 `1.3 RoadScene 场景融合展示`）。
+6. **模型架构对比页规范 (Architecture & Edge-Server Comparison)**：
+   - 顶部设置全局状态指示横条（Status Overview Bar），对“是否一样/替换什么/删减什么”进行核心结论一句话提炼；
+   - 正文采用三栏深底色纵向卡片（横向 4.0" × 3，纵向铺满），分别深入剖析架构等价性、底层算子移植与训练冗余剥离；
+   - 底部配以结论气泡（Conclusion Footer Pill），逻辑闭环完整。
